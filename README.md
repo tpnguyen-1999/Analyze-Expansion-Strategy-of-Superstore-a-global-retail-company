@@ -28,4 +28,7 @@ SuperStore is a global retail company offering a wide range of products to custo
 ### Stage 3: Ideate
 ![Image](https://github.com/user-attachments/assets/942e16d6-94df-4299-8763-2ee31752cc9c)
 
+## 3. Visualization
+
+
 
