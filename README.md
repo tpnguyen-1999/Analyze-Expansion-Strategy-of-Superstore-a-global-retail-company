@@ -30,20 +30,20 @@ SuperStore is a global retail company offering a wide range of products to custo
 
 ## 3. Visualization
 ### 3.1. Performance Overview
-![Image](https://github.com/user-attachments/assets/0ec84e1a-48ff-4f96-80a9-c83a81fdc03d)
+![Image](https://github.com/user-attachments/assets/0c7c68f5-2e6e-4c10-baf8-ba5bfc7c700b)
 - SuperStore experienced an upward trend in sales from 2011 to 2014
 - Compared with the increase in sales, there is a light increase in profit over the same period.
 - Consumer customer segment had the highest sales ($6.5M) compared to other segments.
 - APAC market had the highest number of orders (11K).
 
 ### 3.2. Sales by Location
-![Image](https://github.com/user-attachments/assets/34433d87-1f9a-4f89-9fbd-5a2047a2fc36)
+![Image](https://github.com/user-attachments/assets/b43bb4f0-fbef-49f8-8c0d-e7bb7f9b1e25)
 -  APAC market had the highest sales and accounted for nearly half of profits.
 -  The US had the highest number of orders compared with other countries and accounted for about one-fourth of the total profit.
 -  However, the return rate is still high
 
 ### 3.3. Sales by Product
-![Image](https://github.com/user-attachments/assets/1737d767-aaca-41e8-b24d-47d93c218ab2)
+![Image](https://github.com/user-attachments/assets/8f2ce12b-0529-4afb-8a76-816ab445c0d8)
 -  Phones had the highest sales compared to other product sub-categories ($1.7M) and nearly the highest profit ($0.2M)
 -  Technology is the most profitable category.
 -  Binders experienced the highest returned quantity (1422)
