@@ -29,28 +29,38 @@ SuperStore is a global retail company offering a wide range of products to custo
 ![Image](https://github.com/user-attachments/assets/942e16d6-94df-4299-8763-2ee31752cc9c)
 
 ## 3. Visualization
-### 3.1. Performance Overview
-![Image](https://github.com/user-attachments/assets/0c7c68f5-2e6e-4c10-baf8-ba5bfc7c700b)
-- SuperStore experienced an upward trend in sales from 2011 to 2014
-- Compared with the increase in sales, there is a light increase in profit over the same period.
-- Consumer customer segment had the highest sales ($6.5M) compared to other segments.
-- APAC market had the highest number of orders (11K).
+### 3.1. Business Overview
+<img width="1305" height="753" alt="Image" src="https://github.com/user-attachments/assets/82586f43-3c6d-4f8f-b4dd-a11399e12a5d" />
 
-### 3.2. Sales by Location
-![Image](https://github.com/user-attachments/assets/b43bb4f0-fbef-49f8-8c0d-e7bb7f9b1e25)
--  APAC market had the highest sales and accounted for nearly half of profits.
--  The US had the highest number of orders compared with other countries and accounted for about one-fourth of the total profit.
--  However, the return rate is still high
+- **Business Performance**: Revenue and profit have grown significantly, indicating a stable expansion phase. Order volumes are increasing alongside sales, while the profit margin (~11.6%) remains consistent → reflects sustainable business growth.
+- **Core Markets**: APAC & EU represent the largest revenue base with a steady margin (~12 - 13%).
+- **High-potential Market**: Canada generates small revenue but has outstanding profit margin (26.62%). This is a promising market with expansion potential if scale increases.
+- **Product**: Office Suppliers is the product category with the highest total orders and the lowest return rate → increase investment to further boost revenue growth.
 
-### 3.3. Sales by Product
-![Image](https://github.com/user-attachments/assets/8f2ce12b-0529-4afb-8a76-816ab445c0d8)
--  Phones had the highest sales compared to other product sub-categories ($1.7M) and nearly the highest profit ($0.2M)
--  Technology is the most profitable category.
--  Binders experienced the highest returned quantity (1422)
+### 3.2. Market Analysis
+<img width="1303" height="753" alt="Image" src="https://github.com/user-attachments/assets/590cc8eb-9db4-4ce2-aa52-f66087909555" />
+
+- **APAC & EU**: Core markets with the highest revenue and YoY% (~ 51 - 55%). While profits remain high, profit margins (~ 12 - 13%) are only average → continue investing while 
+focusing on margin improvement such as discount optimization and logistics efficiency.
+- **US & LATAM**: These markets show high revenue but below optimal profitability. Despite solid sales (~ 2M), YoY% remains modest (US 46.9%, LATAM 48.5%), with profit 
+margins (~10 - 12%) below average → need to focus on cost optimization, pricing refinement and product mix to improve margins.
+- **Canada**: Small market with exceptional profit margin (~27%) → strong opportunity for upscale expansion.
+- **Africa & EMEA**: Weak markets with low revenue and margins despite high YoY growth → not a priority for investment.
+- **Market sales representative** : Anna Andreadi is the top performer with the highest total sales (~ 2.8M). She could take a leadership role in training or sharing best practices 
+with other representatives.
+
+### 3.3. Product Analysis
+<img width="1304" height="754" alt="Image" src="https://github.com/user-attachments/assets/54d5bd9b-c752-4e2d-95cc-55c232ec4f44" />
+
+- **Phones & Copiers**: High-profit product categories — ideal for expansion in high-potential regions like Canada.
+- **Art, Storage, Binders**: High order volume but low profit → serve mainly as entry-level products attracting new customers.
 
 ## 4. Recommendations
--  SuperStore should focus on the Consumer segment, as it generated the highest sales compared to other customer segments.
--  Prioritize the APAC market for expansion, given its performance and potential for growth.
--  The main category is: Technology, especially top 10 best selling products.
--  Conduct further analysis to identify the underlying reasons of the high return rate, in order to improve customer satisfaction and reduce revenue loss.
+- Increase investment in APAC & EU while improving cost efficiency and profitability.
+- Scale operations in Canada, positioning it as a premium, high-margin market.
+- Enhance pricing and cost optimization strategies in US & LATAM to raise margins.
+- Limit resources in Africa & EMEA, maintaining only essential operations.
+- Leverage top sales performers, such as Anna Andreadi, for sales leadership and best-practice sharing.
+- Focus on high-performing product lines (e.g., Phones, Copiers, Office Suppliers) to drive overall growth.
+- Utilize low-margin, high-volume products for promotional or bundling strategies to attract customers and increase upselling opportunities.
 
