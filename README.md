@@ -30,7 +30,7 @@ SuperStore is a global retail company offering a wide range of products to custo
 
 ## 3. Visualization
 ### 3.1. Business Overview
-<img width="1305" height="754" alt="Image" src="https://github.com/user-attachments/assets/c096f72d-79f5-4be5-b339-d6cdeefa8a86" />
+<img width="1304" height="756" alt="Image" src="https://github.com/user-attachments/assets/2f413321-3f72-4c78-8dc7-a813cc0eb064" />
 
 - **Business Performance**: Revenue and profit have grown significantly, indicating a stable expansion phase. Order volumes are increasing alongside sales, while the profit margin (~11.6%) remains consistent → reflects sustainable business growth.
 - **Core Markets**: APAC & EU represent the largest revenue base with a steady margin (~12 - 13%).
@@ -38,7 +38,7 @@ SuperStore is a global retail company offering a wide range of products to custo
 - **Product**: Office Suppliers is the product category with the highest total orders and the lowest return rate → increase investment to further boost revenue growth.
 
 ### 3.2. Market Analysis
-<img width="1302" height="753" alt="Image" src="https://github.com/user-attachments/assets/ff817edc-aa5f-4e22-b3b5-23967434de35" />
+<img width="1303" height="754" alt="Image" src="https://github.com/user-attachments/assets/679ded14-8b86-46b8-8520-0eb7b7a721fe" />
 
 - **APAC & EU**: Core markets with the highest revenue and YoY% (~ 51 - 55%). While profits remain high, profit margins (~ 12 - 13%) are only average → continue investing while 
 focusing on margin improvement such as discount optimization and logistics efficiency.
@@ -50,7 +50,7 @@ margins (~10 - 12%) below average → need to focus on cost optimization, pricin
 with other representatives.
 
 ### 3.3. Product Analysis
-<img width="1305" height="753" alt="Image" src="https://github.com/user-attachments/assets/7f27b9a0-c708-4995-9739-6c87fa0008a2" />
+<img width="1302" height="755" alt="Image" src="https://github.com/user-attachments/assets/5fcece54-2e1a-4f3e-a671-a57f4f83769d" />
 
 - **Phones & Copiers**: High-profit product categories — ideal for expansion in high-potential regions like Canada.
 - **Art, Storage, Binders**: High order volume but low profit → serve mainly as entry-level products attracting new customers.
@@ -63,4 +63,3 @@ with other representatives.
 - Leverage top sales performers, such as Anna Andreadi, for sales leadership and best-practice sharing.
 - Focus on high-performing product lines (e.g., Phones, Copiers, Office Suppliers) to drive overall growth.
 - Utilize low-margin, high-volume products for promotional or bundling strategies to attract customers and increase upselling opportunities.
-
